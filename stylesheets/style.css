@@ -2824,16 +2824,28 @@ button:hover:after,
 
 
 .colorbg {
-
 	background-color: #e8e8e8;
 	padding-top: 20px;
 	padding-left: 40px;
 	padding-right: 40px;
 	padding-bottom: 40px;
 	border-radius: 10px;
+}
+
+.brand-partners {
+	text-align: center;
 
 }
 
+.brand-partners div{
+	margin-bottom: 10px;
+	min-height: 100%;
+}
+
+.brand-partners img{
+	width: 150px;
+	max-width: 100%;
+}
 
 .contacth {
 	display: flex;
