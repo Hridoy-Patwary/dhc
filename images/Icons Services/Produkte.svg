@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 342.1 363.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-3 {
+        fill: #6c150e;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: #c01718;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-6" x="19.5" y="56.33" width="107.77" height="296.98" rx="14.46" ry="14.46"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-6" x="141.5" y="56.33" width="107.77" height="296.98" rx="14.46" ry="14.46"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-3" x="257.03" y="92.25" width="85.06" height="234.4" rx="14.46" ry="14.46"/>
+  <rect class="cls-3" y="92.25" width="85.06" height="234.4" rx="14.46" ry="14.46"/>
+  <rect class="cls-5" x="206.37" y="56.33" width="107.77" height="296.98" rx="14.46" ry="14.46"/>
+  <rect class="cls-1" x="218.17" y="298.39" width="84.16" height="20.71"/>
+  <rect class="cls-5" x="30.73" y="56.33" width="107.77" height="296.98" rx="14.46" ry="14.46"/>
+  <rect class="cls-1" x="42.53" y="308.39" width="84.16" height="20.71"/>
+  <g class="cls-4">
+    <rect class="cls-3" x="87.37" y="56.33" width="107.77" height="296.98" rx="14.46" ry="14.46"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-3" x="209.37" y="56.33" width="107.77" height="296.98" rx="14.46" ry="14.46"/>
+  </g>
+  <rect class="cls-5" x="101.9" width="131.73" height="363.01" rx="14.46" ry="14.46"/>
+  <rect class="cls-1" x="119.62" y="300.94" width="95.12" height="23.4"/>
+</svg>
